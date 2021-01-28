@@ -1,4 +1,8 @@
-#Import necessary libraries
+
+#  Copyright (c) 2021.
+#  This script is prepared by TechyHans (https://techyhans.com)
+#  Please contact him at hanshengliang@outlook.com for more details.
+
 from flask import Flask, render_template, Response
 import cv2
 from flask_cors import CORS
