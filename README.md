@@ -19,3 +19,6 @@ YOLOv4 pretrained model can download [here.](https://github.com/AlexeyAB/darknet
 4. Run command `python api.py`.
 5. Open browser and insert _http://localhost:5000_.
 6. Give access to camera and see the result!
+
+## Develop By
+TechyHans - https://techyhans.com
