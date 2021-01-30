@@ -1,4 +1,4 @@
-# Realtime-Yolo-using-Flask
+# Realtime Detection with Browser
 This is a web based application where you able to perform real-time object detection usinmg camera.
 
 ## Requirements
